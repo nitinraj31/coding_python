@@ -25,6 +25,6 @@ index = 1
 print(index, fruits)
 
 
-name=["nitin","rahul","geeta"]
+name=["babli","nitin","shubham","kunal "]
 for name,mark in zip(name,numbers):
     print(name,mark)    
