@@ -1,0 +1,1 @@
+print("nitin raj ","ashutosh kumar ",sep="")

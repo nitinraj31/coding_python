@@ -1,0 +1,7 @@
+a=int(input("ENTER THE FIRST NUMBER :"))
+b=int(input("ENTER THE SECOND NUMBER :"))
+print("the number before swapping is :",a,b)
+swap=(a,b)=(b,a)
+print("the number after swappiung is :")
+print("the number assign in varoable a is :",a)
+print("the number assign in varoable b is :",b)

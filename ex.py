@@ -1,0 +1,1 @@
+print("apple is a fruit".split("is"))
